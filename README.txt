@@ -1,13 +1,23 @@
-hey i am Mohd Rafey Shamim Khan. 
-i am a BTech undergrad second year student from skit jaipur. 
-This is a basic chatbot that i made using API of Gemini so you can also use this project.
-just give credit to me if possible.
-Here are the steps that you have to do to make this bot work.
+Hey, I’m Mohd Rafey Shamim Khan.
+I’m a second-year B.Tech undergraduate student at SKIT Jaipur.
 
-1. download this chatbot from github.
-2. after downloading go to the folder where you downloaded the file and right click and open with terminal make sure you have downloaded python.
-3. run this command: pip install -r requirements.txt
-4. after this go to client.py and main.py and paste your Gemini API from your accounts on Gemini.
-5. make sure not to steal someone's API as it is a cyber offense.
-6. if you are getting any error then please ask Chatgpt it will resolve your error.
-7. for any queries please contact to me at: rafey1nonly@gmail.com
+This is a basic chatbot I built using the Gemini API, and you’re welcome to use this project too!
+Just please give credit if possible.
+
+Steps to Run the Chatbot:
+
+1. Download this chatbot from GitHub.
+
+2. After downloading, navigate to the folder where the files are located. Right-click and choose “Open in Terminal.” Make sure Python is installed on your system.
+
+3. Run the following command in the terminal:
+    pip install -r requirements.txt
+
+4. Open both client.py and main.py, and replace the placeholder with your own Gemini API key from your Gemini account.
+
+Important: Do not use someone else’s API key — it’s a cyber offense.
+
+5. If you encounter any errors, feel free to ask ChatGPT — it can help resolve most issues.
+
+6. For any queries, feel free to contact me at: rafey1nonly@gmail.com
+
